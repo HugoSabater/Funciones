@@ -1,2 +1,2 @@
 # Funciones
-3 actividades de clase
+Última de las actividades sobre programación funcional que hago en clase de programación en DAW.
